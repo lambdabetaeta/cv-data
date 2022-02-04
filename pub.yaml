@@ -1,0 +1,187 @@
+refs:
+  
+      
+  - id: TOCL2022
+    short: TOCL 2022
+    title: Modalities and Parametric Adjoints
+    author: Daniel Gratzer, Evan Cavallo, G. A. Kavvos, Adrien Guatto, and Lars Birkedal
+    resources: 
+      link: https://cs.au.dk/~birke/papers/modalities-and-parametric-adjoints.pdf
+    note: To appear in the ACM Transactions on Computational Logic.
+
+  - id: IFCOLOG2021
+    short: IfCoLog 2021
+    title: Intensionality, Intensional Recursion, and the Gödel–Löb Axiom
+    author: G. A. Kavvos
+    note: Originally presented at [IMLA 2017](https://sites.google.com/site/modallogicimla2017/).
+    resources:
+      link: papers/ipcf.pdf
+      slides: talks/imla17-ipcf.pdf
+
+  - id: ICFP2021
+    short: ICFP 2021
+    title: Client-Server Sessions in Linear Logic
+    author: Zesen Qian, G. A. Kavvos, and Lars Birkedal
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/client-server-sessions-in-linear-logic
+    note: Distinguished paper award.
+    bibtex: |
+      @article{qian2021,
+        author = {Qian, Zesen and Kavvos, G. A. and Birkedal, Lars},
+        title = {Client-Server Sessions in Linear Logic},
+        year = {2021},
+        publisher = {Association for Computing Machinery},
+        journal = {Proceedings of the ACM on Programming Languages},
+        address = {New York, NY, USA},
+        volume = {5},
+        number = {ICFP},
+        doi = {10.1145/3473567},
+        articleno = {62},
+        numpages = {31}
+      }
+
+  - id: LMCS2021
+    short: LMCS 2021
+    title: Multimodal Dependent Type Theory
+    author: Daniel Gratzer, G. A. Kavvos, Andreas Nuyts, and Lars Birkedal
+    resources:
+      link: https://lmcs.episciences.org/7713/
+    note: Full version of LICS 2020 article.
+    bibtex: |
+      @article{gratzer2021,
+        title = {{Multimodal Dependent Type Theory}},
+        author = {Daniel Gratzer and G. A. Kavvos and Andreas Nuyts and Lars Birkedal},
+        doi = {10.46298/lmcs-17(3:11)2021},
+        journal = {{Logical Methods in Computer Science}},
+        volume = {17},
+        issue = {3},
+        year = {2021}
+      }
+      
+  - id: LMCS2020
+    short: LMCS 2020
+    title: Dual-Context Calculi for Modal Logic
+    author: G. A. Kavvos
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/dual-context-calculi-for-modal-logic-2
+    note: Full version of LICS 2017 article.
+    bibtex: |
+      @article{kavvos2020,
+        title = {Dual-{Context} {Calculi} for {Modal} {Logic}},
+        author = {Kavvos, G. A.},
+        journal = {Logical Methods in Computer Science},
+        year = {2020},
+        volume = {16},
+        issue = {3},
+        doi = {10.23638/LMCS-16(3:10)2020}
+      }
+      
+  - id: LICS2020
+    short: LICS 2020
+    title: Multimodal Dependent Type Theory
+    author: Daniel Gratzer, G. A. Kavvos, Andreas Nuyts, and Lars Birkedal
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/multimodal-dependent-type-theory
+      "techrep": https://jozefg.github.io/papers/type-theory-a-la-mode.pdf
+    bibtex: |
+      @inproceedings{gratzer2020,
+        author = {Gratzer, Daniel and Kavvos, G. A. and Nuyts, Andreas and Birkedal, Lars},
+        title = {Multimodal Dependent Type Theory},
+        year = {2020},
+        isbn = {9781450371049},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        doi = {10.1145/3373718.3394736},
+        booktitle = {Proceedings of the 35th Annual ACM/IEEE Symposium on Logic in Computer Science},
+        pages = {492–506},
+        numpages = {15}
+      }
+
+  - id: POPL2020
+    short: POPL 2020
+    title: Recurrence Extraction for Functional Programs through Call-by-Push-Value
+    author: G. A. Kavvos, Edward Morehouse, Daniel R. Licata, and Norman Danner
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/recurrence-extraction-for-functional-programs-through-call-by-pus
+      slides: talks/popl2020-recextr.pdf
+    bibtex: |
+      @article{kavvos2019b,
+        author = {Kavvos, G. A. and Morehouse, Edward and Licata, Daniel R. and Danner, Norman},
+        title = {Recurrence Extraction for Functional Programs through Call-by-Push-Value},
+        year = {2019},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        volume = {4},
+        issue = {POPL},
+        doi = {10.1145/3371083},
+        journal = {Proceedings of the ACM on Programming Languages},
+        articleno = {15},
+        numpages = {31},
+        eprinttype = {arxiv},
+        eprint = {1911.04588}
+      }
+        
+  - id: POPL2019
+    short: POPL 2019
+    title: Modalities, Cohesion, and Information Flow
+    author: G. A. Kavvos
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/    modalities-cohesion-and-information-flow
+      slides: talks/popl19-clsfds.pdf
+    bibtex: |
+      @article{kavvos2019a,
+        author = {Kavvos, G. A.},
+        title = {Modalities, Cohesion, and Information Flow},
+        year = {2019},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        volume = {3},
+        issue = {POPL},
+        doi = {10.1145/3290333},
+        journal = {Proceedings of the ACM on Programming Languages},
+        articleno = {20},
+        numpages = {29}
+      }
+  
+  - id: LICS2017
+    short: LICS 2017
+    title: Dual-context calculi for modal logic
+    author: G. A. Kavvos
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/dual-context-calculi-for-modal-logic
+      techrep: papers/dualcalc.pdf
+      slides: talks/lics17-dc.pdf
+    bibtex: |
+      @inproceedings{kavvos2017b,
+        title = {Dual-context calculi for modal logic},
+        author = {Kavvos, G. A.},
+        doi = {10.1109/LICS.2017.8005089},
+        isbn = {978-1-5090-3018-7},
+        booktitle = {2017 32nd {Annual} {ACM}/{IEEE} {Symposium} on {Logic} in {Computer} {Science} ({LICS})},
+        publisher = {IEEE},
+        year = {2017}
+      }
+      
+  - id: FoSSaCS2017
+    short: FoSSaCS 2017
+    title: On the Semantics of Intensionality
+    author: G. A. Kavvos
+    resources:
+      link: https://research-information.bris.ac.uk/en/publications/on-the-semantics-of-intensionality
+      slides: talks/fossacs17-irec.pdf
+    bibtex: |
+      @inproceedings{kavvos2017a,
+        title = {On the {Semantics} of {Intensionality}},
+        isbn = {978-3-662-54458-7},
+        series = {Lecture {Notes} in {Computer} {Science}},
+        volume = {10203},
+        doi = {10.1007/978-3-662-54458-7_32},
+        booktitle = {Foundations of {Software} {Science} and {Computation} {Structures}},
+        publisher = {Springer Berlin Heidelberg},
+        author = {Kavvos, G. A.},
+        editor = {Esparza, Javier and Murawski, Andrzej S.},
+        year = {2017},
+        pages = {550--566},
+        eprinttype = {arxiv},
+        eprint = {1602.01365}
+      }
