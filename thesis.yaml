@@ -1,0 +1,17 @@
+thesis:
+  - id: kavvos2017X
+    short: Thesis
+    title: On the Semantics of Intensionality and Intensional Recursion
+    author: Georgios Alexandros Kavvos
+    year: 2017
+    resources: 
+      link: https://ora.ox.ac.uk/objects/uuid:f89b46d8-b514-42fd-9321-e2803452681f
+    bibtex: |
+      @phdthesis{kavvos2017X,
+        type = {DPhil thesis},
+        title = {On the {Semantics} of {Intensionality} and {Intensional} {Recursion}},
+        url = {https://ora.ox.ac.uk/objects/uuid:f89b46d8-b514-42fd-9321-e2803452681f},
+        school = {University of Oxford},
+        author = {Kavvos, Georgios Alexandros},
+        year = {2017}
+      }

@@ -1,10 +1,10 @@
-refs:
-  
+pubs:
       
   - id: TOCL2022
     short: TOCL 2022
     title: Modalities and Parametric Adjoints
     author: Daniel Gratzer, Evan Cavallo, G. A. Kavvos, Adrien Guatto, and Lars Birkedal
+    year: 2022
     resources: 
       link: https://cs.au.dk/~birke/papers/modalities-and-parametric-adjoints.pdf
     note: To appear in the ACM Transactions on Computational Logic.
@@ -13,15 +13,17 @@ refs:
     short: IfCoLog 2021
     title: Intensionality, Intensional Recursion, and the Gödel–Löb Axiom
     author: G. A. Kavvos
+    year: 2021
     note: Originally presented at [IMLA 2017](https://sites.google.com/site/modallogicimla2017/).
     resources:
       link: papers/ipcf.pdf
       slides: talks/imla17-ipcf.pdf
 
-  - id: ICFP2021
+  - id: qian2021
     short: ICFP 2021
     title: Client-Server Sessions in Linear Logic
     author: Zesen Qian, G. A. Kavvos, and Lars Birkedal
+    year: 2021
     resources:
       link: https://research-information.bris.ac.uk/en/publications/client-server-sessions-in-linear-logic
     note: Distinguished paper award.
@@ -40,7 +42,7 @@ refs:
         numpages = {31}
       }
 
-  - id: LMCS2021
+  - id: gratzer2021
     short: LMCS 2021
     title: Multimodal Dependent Type Theory
     author: Daniel Gratzer, G. A. Kavvos, Andreas Nuyts, and Lars Birkedal
@@ -58,7 +60,7 @@ refs:
         year = {2021}
       }
       
-  - id: LMCS2020
+  - id: kavvos2020
     short: LMCS 2020
     title: Dual-Context Calculi for Modal Logic
     author: G. A. Kavvos
@@ -76,7 +78,7 @@ refs:
         doi = {10.23638/LMCS-16(3:10)2020}
       }
       
-  - id: LICS2020
+  - id: gratzer2020
     short: LICS 2020
     title: Multimodal Dependent Type Theory
     author: Daniel Gratzer, G. A. Kavvos, Andreas Nuyts, and Lars Birkedal
@@ -97,7 +99,7 @@ refs:
         numpages = {15}
       }
 
-  - id: POPL2020
+  - id: kavvos2019b
     short: POPL 2020
     title: Recurrence Extraction for Functional Programs through Call-by-Push-Value
     author: G. A. Kavvos, Edward Morehouse, Daniel R. Licata, and Norman Danner
@@ -121,7 +123,7 @@ refs:
         eprint = {1911.04588}
       }
         
-  - id: POPL2019
+  - id: kavvos2019a
     short: POPL 2019
     title: Modalities, Cohesion, and Information Flow
     author: G. A. Kavvos
@@ -143,7 +145,7 @@ refs:
         numpages = {29}
       }
   
-  - id: LICS2017
+  - id: kavvos2017b
     short: LICS 2017
     title: Dual-context calculi for modal logic
     author: G. A. Kavvos
@@ -162,7 +164,7 @@ refs:
         year = {2017}
       }
       
-  - id: FoSSaCS2017
+  - id: kavvos2017a
     short: FoSSaCS 2017
     title: On the Semantics of Intensionality
     author: G. A. Kavvos
