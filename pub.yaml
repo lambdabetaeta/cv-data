@@ -16,8 +16,8 @@ pubs:
     year: 2021
     note: Originally presented at [IMLA 2017](https://sites.google.com/site/modallogicimla2017/).
     resources:
-      link: papers/ipcf.pdf
-      slides: talks/imla17-ipcf.pdf
+      link: /papers/ipcf.pdf
+      slides: /talks/imla17-ipcf.pdf
 
   - id: qian2021
     short: ICFP 2021
@@ -26,7 +26,7 @@ pubs:
     year: 2021
     resources:
       link: https://research-information.bris.ac.uk/en/publications/client-server-sessions-in-linear-logic
-    note: Distinguished paper award.
+    strongnote: Distinguished paper award.
     bibtex: |
       @article{qian2021,
         author = {Qian, Zesen and Kavvos, G. A. and Birkedal, Lars},
@@ -105,7 +105,7 @@ pubs:
     author: G. A. Kavvos, Edward Morehouse, Daniel R. Licata, and Norman Danner
     resources:
       link: https://research-information.bris.ac.uk/en/publications/recurrence-extraction-for-functional-programs-through-call-by-pus
-      slides: talks/popl2020-recextr.pdf
+      slides: /talks/popl2020-recextr.pdf
     bibtex: |
       @article{kavvos2019b,
         author = {Kavvos, G. A. and Morehouse, Edward and Licata, Daniel R. and Danner, Norman},
@@ -129,7 +129,7 @@ pubs:
     author: G. A. Kavvos
     resources:
       link: https://research-information.bris.ac.uk/en/publications/    modalities-cohesion-and-information-flow
-      slides: talks/popl19-clsfds.pdf
+      slides: /talks/popl19-clsfds.pdf
     bibtex: |
       @article{kavvos2019a,
         author = {Kavvos, G. A.},
@@ -151,8 +151,8 @@ pubs:
     author: G. A. Kavvos
     resources:
       link: https://research-information.bris.ac.uk/en/publications/dual-context-calculi-for-modal-logic
-      techrep: papers/dualcalc.pdf
-      slides: talks/lics17-dc.pdf
+      techrep: /papers/dualcalc.pdf
+      slides: /talks/lics17-dc.pdf
     bibtex: |
       @inproceedings{kavvos2017b,
         title = {Dual-context calculi for modal logic},
@@ -170,7 +170,7 @@ pubs:
     author: G. A. Kavvos
     resources:
       link: https://research-information.bris.ac.uk/en/publications/on-the-semantics-of-intensionality
-      slides: talks/fossacs17-irec.pdf
+      slides: /talks/fossacs17-irec.pdf
     bibtex: |
       @inproceedings{kavvos2017a,
         title = {On the {Semantics} of {Intensionality}},
