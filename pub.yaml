@@ -1,4 +1,20 @@
 pubs:
+  
+  - id: LICS2022
+    short: LICS 2022
+    title: Syllepsis in Homotopy Type Theory
+    author: Kristina Sojakova and G. A. Kavvos
+    year: 2022
+    note: To appear in ACM Proceedings.
+
+  - id: ITP2022
+    short: ITP 2022
+    title: Deeper Shallow Embeddings
+    author: Jacob Prinz, G. A. Kavvos, and Leonidas Lampropoulos
+    year: 2022
+    resources: 
+      preprint: /papers/deeper.pdf
+    note: To appear in LIPIcs Proceedings.
       
   - id: TOCL2022
     short: TOCL 2022
@@ -6,8 +22,8 @@ pubs:
     author: Daniel Gratzer, Evan Cavallo, G. A. Kavvos, Adrien Guatto, and Lars Birkedal
     year: 2022
     resources: 
-      link: https://cs.au.dk/~birke/papers/modalities-and-parametric-adjoints.pdf
-    note: To appear in the ACM Transactions on Computational Logic.
+      preprint: https://cs.au.dk/~birke/papers/modalities-and-parametric-adjoints.pdf
+      link: https://dl.acm.org/doi/10.1145/3514241
 
   - id: IFCOLOG2021
     short: IfCoLog 2021
