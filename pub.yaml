@@ -5,6 +5,8 @@ pubs:
     title: Syllepsis in Homotopy Type Theory
     author: Kristina Sojakova and G. A. Kavvos
     year: 2022
+    resources:
+      preprint: /papers/syllepsis.pdf
     note: To appear in ACM Proceedings.
 
   - id: ITP2022
