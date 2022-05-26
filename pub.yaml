@@ -34,7 +34,6 @@ pubs:
         publisher = {Association for Computing Machinery},
         volume = {23},
         number = {3},
-        issn = {1529-3785},
         url = {https://doi.org/10.1145/3514241},
         doi = {10.1145/3514241},
         journal = {ACM Transactions on Computational Logic},
@@ -43,7 +42,7 @@ pubs:
       }
 
 
-  - id: IFCOLOG2021
+  - id: kavvos2021
     short: IfCoLog 2021
     title: Intensionality, Intensional Recursion, and the Gödel–Löb Axiom
     author: G. A. Kavvos
@@ -52,6 +51,16 @@ pubs:
     resources:
       link: /papers/ipcf.pdf
       slides: /talks/imla17-ipcf.pdf
+    bibtex: |
+      @article{kavvos2021,
+        author = {Kavvos, G. A.},
+        title = {Intensionality, Intensional Recursion, and the G\"{o}del-L\"{o}b Axiom},
+        year = {2021},
+        journal = {Journal of Applied Logics - The IfCoLog Journal of Logics and their Applications},
+        volume = {8},
+        issue = {8},
+        pages = {2287-2311}
+      }
 
   - id: qian2021
     short: ICFP 2021
