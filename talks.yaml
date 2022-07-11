@@ -1,8 +1,18 @@
 talks:
+  
+  - title: Type Theory and Homotopy
+    date: 2021-07-05
+    note: Invited tutorial at the [13th Panhellenic Logic Symposium](http://panhellenic-logic-symposium.org/13/).
+    resources:
+      part-1: /talks/pls-tt-1.pdf
+      part-2: /talks/pls-tt-2.pdf
+      part-3: /talks/pls-tt-3.pdf
+
   - title: Client-Server Sessions in Linear Logic
     date: 2021-06-23
     note: Invited seminar at [LIX](https://www.lix.polytechnique.fr/news/314/view), École Polytechnique
-    slides: coexp-LIX-2021.pdf
+    resources:
+      slides: /talks/coexp-LIX-2021.pdf
       
   - title: Modalities, Cohesion, and Information Flow
     date: 2021-04-16
@@ -15,12 +25,14 @@ talks:
   - title: How to define things by recursion
     date: 2020-05-11
     note: Logsem seminar, Department of Computer Science, Aarhus University
-    slides: domains-logsem-2020.pdf
+    resources:
+      slides: /talks/domains-logsem-2020.pdf
 
   - title: Recurrence Extraction for Functional Programs
     date: 2019-12-27
     note: Talk at the Athens Programming Languages Seminar
-    slides: recextr-apls-2019.pdf
+    resources:
+      slides: /talks/recextr-apls-2019.pdf
       
   - title: Modalities, Cohesion, and Information Flow
     date: 2019-10-17
@@ -37,7 +49,8 @@ talks:
   - title: Modalities, Cohesion, and Information Flow
     date: 2018-12-03
     note: Invited talk at the [MIT Categories Seminar](http://brendanfong.com/seminar.html)
-    slides: mit-classifieds.pdf
+    resources:
+      slides: talks/mit-classifieds.pdf
       
   - title: Modalities, Cohesion, and Information Flow
     date: 2018-11-30
@@ -46,7 +59,8 @@ talks:
   - title: Curry-Howard for Modal Logic
     date: 2018-10-30
     note: Invited seminar at the [Graduate Center](https://www.gc.cuny.edu/home), City University of New York 
-    slides: cunyML-2018.pdf
+    resources:
+      slides: /talks/cunyML-2018.pdf
       
   - title: On the Semantics of Intensionality
     date: 2017-10-16
@@ -55,12 +69,14 @@ talks:
   - title: A Type-Theoretic Alternative to LISP
     date: 2017-07-15
     note: Talk at the [11th Panhellenic Logic Symposium](http://http://pls11.cs.ntua.gr)
-    slides: pls11-lisp.pdf
+    resources:
+      slides: /talks/pls11-lisp.pdf
 
   - title: A Type-Theoretic Alternative to LISP
     date: 2017-05-29
     note: Talk at [TYPES 2017](http://types2017.elte.hu)
-    slides: types17-lisp.pdf
+    resources:
+      slides: /talks/types17-lisp.pdf
       
   - title: On the Semantics of Intensional Recursion
     date: 2017-02-15

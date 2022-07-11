@@ -7,6 +7,7 @@ pubs:
     year: 2022
     resources:
       preprint: /papers/syllepsis.pdf
+      link: https://research-information.bris.ac.uk/en/publications/syllepsis-in-homotopy-type-theory
     note: To appear in ACM Proceedings.
 
   - id: prinz2022
@@ -24,8 +25,7 @@ pubs:
     author: Daniel Gratzer, Evan Cavallo, G. A. Kavvos, Adrien Guatto, and Lars Birkedal
     year: 2022
     resources: 
-      preprint: https://cs.au.dk/~birke/papers/modalities-and-parametric-adjoints.pdf
-      link: https://dl.acm.org/doi/10.1145/3514241
+      link: https://research-information.bris.ac.uk/en/publications/modalities-and-parametric-adjoints
     bibtex: |
       @article{gratzer2022a,
         author = {Gratzer, Daniel and Cavallo, Evan and Kavvos, G. A. and Guatto, Adrien and Birkedal, Lars},
